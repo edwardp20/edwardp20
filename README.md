@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 Chinese
 ## My main programing language is
 Java
+##Fun fact
+1+1=2 eh………
+Why isn't it equal to 3?
